@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.runtime/
+.tools/
+.venv/
+node_modules/
+target/
+dist/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.tsbuildinfo
+.openchamber/
+*.log

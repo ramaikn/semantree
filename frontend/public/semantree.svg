@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 350">
+  <title>Semantree</title>
+  <g transform="translate(155 8)" fill="#378746">
+    <path d="M79 8Q79 1 86 5L121 33Q129 39 129 48V53Q129 62 121 68L82 96Q80 98 80 94V86Q78 79 79 73Z"/>
+    <path d="M38 40Q42 36 46 40L65 58Q72 64 72 72V110Q72 114 69 112L37 89Q29 83 29 73V53Q29 47 34 44Z"/>
+    <path d="M137 64Q145 57 145 66V105Q145 114 137 120L85 157Q81 160 81 155V113Q81 107 86 103Z"/>
+    <path d="M15 88Q8 83 8 92V127Q8 136 16 142L70 180Q73 182 72 177V136Q72 129 66 124Z"/>
+    <path d="M149 122Q151 120 151 124V162Q151 182 135 193L84 229Q81 231 81 227V181Q81 173 88 168Z"/>
+    <path d="M10 151Q7 149 7 153V175Q7 189 21 200L69 229Q72 231 72 227V193Q72 186 65 181Z"/>
+  </g>
+  <text x="235" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="-4"><tspan fill="#24333d">seman</tspan><tspan fill="#378746">tree</tspan></text>
+</svg>
