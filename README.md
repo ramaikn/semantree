@@ -2,11 +2,17 @@
 
 # Semantree
 
-**Pencarian dokumen dan jawaban AI dengan sumber yang dapat ditelusuri.**
+**AI-powered Document Knowledge & Semantic Search**, dengan jawaban AI dan sumber yang dapat ditelusuri.
 
 Semantree adalah aplikasi open source untuk mengelola dokumen dalam ruang kerja, mencari informasi dengan kata kunci atau makna, lalu membaca jawaban AI beserta kutipan dan teks sumbernya. Pencarian, unggah, ekstraksi, kontrol akses, versi, dan integrasi model berjalan nyata, bukan hasil yang di-hardcode.
 
 Repositori: [github.com/ramaikn/semantree](https://github.com/ramaikn/semantree). Lisensi: [MIT](LICENSE). Antarmuka dan dokumentasi utama menggunakan Bahasa Indonesia.
+
+## Tampilan aplikasi
+
+![Semantree: pencarian dokumen dan jawaban AI berbasis sumber](docs/screenshots/search.jpg)
+
+Screenshot aplikasi lokal menggunakan korpus perusahaan simulasi. Semantic search menggunakan reranking LLM, bukan embedding/vector index.
 
 ## Fitur
 
