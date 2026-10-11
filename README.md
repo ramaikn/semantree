@@ -10,7 +10,7 @@ Repositori: [github.com/ramaikn/semantree](https://github.com/ramaikn/semantree)
 
 ## Tampilan aplikasi
 
-![Semantree: pencarian dokumen dan jawaban AI berbasis sumber](docs/screenshots/search.jpg)
+![Semantree: pencarian dokumen dan jawaban AI berbasis sumber](docs/screenshots/search.png)
 
 Screenshot aplikasi lokal menggunakan korpus perusahaan simulasi. Semantic search menggunakan reranking LLM, bukan embedding/vector index.
 
